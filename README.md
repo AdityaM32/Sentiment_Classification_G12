@@ -31,6 +31,8 @@ Each technique is implemented using Python programming language and popular mach
 - `Sentiment_Classification_RandomForest.ipynb/`: file conatins the Random Forest technique implementation.
 - `Sentiment_Classification_Decison_Tree.ipynb/`: file conatins the decision tree technique implementation.
 - `prml-project-naive-bayes-vanilla-and-multinomial.ipynb/`: file conatins the naive bayes vanilla and multinomial technique implementation.
+- `train.csv/`: file contains the training data for the model.
+- `test.csv/`: file contains the test data for the model.
 
 
 ## Results
