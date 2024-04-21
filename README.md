@@ -28,7 +28,7 @@ Each technique is implemented using Python programming language and popular mach
 - `README.md`: This file, providing an overview of the project.
 - `Complement Naive Bayes.ipynb/`: file conatins the complement naive bayes technique implementation.
 - `Linear_SVC_sentiment_analysis_89.ipynb/`: file conatins the linear support vector technique implementation.
-- `Sentiment_Analysis_Random_Forest.ipynb/`: file conatins the Random Forest technique implementation.
+- `Sentiment_Classification_RandomForest.ipynb/`: file conatins the Random Forest technique implementation.
 - `Sentiment_Classification_Decison_Tree.ipynb/`: file conatins the decision tree technique implementation.
 - `prml-project-naive-bayes-vanilla-and-multinomial.ipynb/`: file conatins the naive bayes vanilla and multinomial technique implementation.
 
